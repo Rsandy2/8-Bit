@@ -1,4 +1,6 @@
 # 8-Bit
+Project-A2
+
 Computer Architecture and Programming
 
 Landon Wang   |   lwang51@student.gsu.edu
