@@ -1,5 +1,5 @@
 # 8-Bit
-Project-A2
+Project-A1
 
 Computer Architecture and Programming
 
